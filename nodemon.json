@@ -1,0 +1,3 @@
+{
+    "exec" : "ts-node --project tsconfig.json ./src/server.ts"
+}
